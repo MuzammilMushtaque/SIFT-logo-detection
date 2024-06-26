@@ -70,3 +70,7 @@ The script updates the JSON file with the classification results:
 ## License
 
 This script is provided as-is without any warranties. Use it at your own risk.
+
+## Future Work
+
+The current script is good to detected the logos of Bio and Rainforest stamps on the Food products. However, there are some limitations, the script cannot detect logos on the sphere shape products, and very sensitive of Vegan & Fairtrade logos. Please feel free to analyzed and modify the script.  
